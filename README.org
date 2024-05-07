@@ -1,7 +1,10 @@
 #+TITLE: HXD (Hex Dumper)
 #+AUTHOR: Anthony Brown
 
-
-* Hxd
 Hex Dumper writtern in golang.
+
+* Usage
+#+begin_src bash
+  hxd <file-to-dump>
+#+end_src
 
